@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pisciculture Pro</string>
+    <string name="mysql_checking">Connexion au serveur MySQL…</string>
+    <string name="mysql_connected">Données en direct · MySQL (XAMPP)</string>
+    <string name="mysql_local_sqlite">Hors ligne · SQLite (lancez Apache + API)</string>
+    <string name="dashboard_sales_count">Ventes enregistrées : %1$d</string>
+    <string name="ventes_source_mysql">Liste des ventes : MySQL (XAMPP)</string>
+    <string name="vente_saved_mysql">Vente enregistrée dans MySQL</string>
+    <string name="vente_saved_local">Vente enregistrée en local (SQLite)</string>
+    <string name="vente_updated">Vente mise à jour</string>
+</resources>

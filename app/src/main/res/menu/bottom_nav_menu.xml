@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item 
+        android:id="@+id/nav_home" 
+        android:title="Accueil" 
+        android:icon="@drawable/ic_home"/>
+    <item 
+        android:id="@+id/nav_bassin" 
+        android:title="Bassins" 
+        android:icon="@drawable/ic_pool"/>
+    <item 
+        android:id="@+id/nav_poisson" 
+        android:title="Poissons" 
+        android:icon="@drawable/ic_water"/>
+    <item 
+        android:id="@+id/nav_nourrissage" 
+        android:title="Nourrissage" 
+        android:icon="@drawable/ic_food"/>
+    <item 
+        android:id="@+id/nav_recolte" 
+        android:title="Récoltes" 
+        android:icon="@drawable/ic_harvest"/>
+</menu>
